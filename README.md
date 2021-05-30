@@ -31,6 +31,11 @@ El ejemplo envía datos generados por el systick cada 1seg por UART0.
 ![lpc1769_UART0_Regs](img/UART_reg_utn.png "LPC1769 UART0 REGISTERS")
 
 ---
+### TESTING
+![lpc1769_UART0_PC_testing](img/lpc1769_arduino_bridgeUSB.png "Circuito de prueba para testear el funcionamiento del código.")
+![lpc1769_UART0_PC_testing_example](img/example.png "Puesta a prueba del codigo. Se utiliza el programa Putty para leer los bytes recibidos por puerto serie")
+---
+
 Espero le sea de útilidad.
 
 Aportes y sugerencias siempre serán bienvenidas.
